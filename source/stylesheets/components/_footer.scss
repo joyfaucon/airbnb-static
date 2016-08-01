@@ -2,15 +2,17 @@
     background: #333333;
     padding: 30px 25;
     color: #CCCCCC;
-}
 
-#footer a {
+  a {
     color: #CCCCCC;
     font-size: 30px;
     letter-spacing: 20px;
     transition: color 0.5s ease;
+    }
+
+ a:hover {
+    color: blue;
+  }
 }
 
-#footer a:hover {
-    color: blue;
-}
+
